@@ -8,3 +8,6 @@ For message to send and receive, you would have to change the line containing "m
 
 Change from_= to the twilio number you get on account creation and change to= to the number you want to send the message on which is
 verified by your Twilio account.
+
+You have to use your acc id and authentication number for client creation. 
+Look up twilio for better understanding. 
