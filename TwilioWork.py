@@ -41,10 +41,10 @@ if (x == 'Y'):
     accID = None
     accID = str(input("Enter acc ID: "))
     auth =  str(input("Enter authentication token: "))
-    client = Client('AC7bad362e228267c60a44ea86aa440e89','7fe90ef8d9814b77b145062f07dcf190')
+    client = Client('xxxxxxxxxxxxxxxxxxxxxxxx','xxxxxxxxxxxxxxxxxxxxxx')
     
-    message = client.messages.create(from_='+12058808890',
-                          to='+923440518985',
+    message = client.messages.create(from_='+xxxxxxxxxxx',
+                          to='+xxxxxxxxxxxx',
                           body=string)
     
 if (x != 'Y' and x != 'N'):
